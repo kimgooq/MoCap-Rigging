@@ -1,7 +1,5 @@
 # MoCap
 
----
-
 >vector를 통해 계산한 rotation matrix & local rotation matrix 간 계산을 통한 Motion Capture
 
 ### 개발 스택

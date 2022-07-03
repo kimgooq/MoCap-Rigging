@@ -1,6 +1,6 @@
 # MoCap
 
->vector를 통해 계산한 rotation matrix & local rotation matrix 간 계산을 통한 Motion Capture
+> skeleton position 정보와 MediaPipe Landmarks 정보를 활용하여 Rigging
 
 ### 개발 스택
 

@@ -19,4 +19,4 @@
 <img src="./img/RiggingRealtime.gif" width="50%" height="50%"/>
 
 - Video MoCap using MMD model
-<img src="./img/MocapMMD.png" width="80%" height="80%"/>
+<img src="./img/RiggingVideo.gif" width="80%" height="80%"/>

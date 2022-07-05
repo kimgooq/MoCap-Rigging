@@ -14,6 +14,8 @@ import { GLTFLoader } from "https://unpkg.com/three@0.133.1/examples/jsm/loaders
 const renderer = new THREE.WebGLRenderer({ antialias: true });
 let render_w = (window.innerWidth * 2) / 3; //640
 const render_h = (render_w / 640) * 480; //480
+canvasElement.width = render_w;
+canvasElement.height = render_h;
 renderer.setSize(render_w, render_h);
 renderer.setViewport(0, 0, render_w, render_h);
 renderer.shadowMap.enabled = true;

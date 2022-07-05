@@ -16,7 +16,7 @@
 ### 예시 이미지
 
 - Real-time MoCap
-<img src="./img/RiggingRealtime.gif" width="80%" height="80%"/>
+<img src="./img/RiggingRealtime.mp4" width="80%" height="80%"/>
 
 - Video MoCap using MMD model
 <img src="./img/MocapMMD.png" width="80%" height="80%"/>

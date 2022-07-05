@@ -1,4 +1,4 @@
-# MoCap
+# MoCap-Rigging
 
 > skeleton position 정보와 MediaPipe Landmarks 정보를 활용하여 Rigging
 

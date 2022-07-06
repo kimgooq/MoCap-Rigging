@@ -15,8 +15,8 @@
 
 ### 예시 이미지
 
-- Real-time MoCap
+- Webcam - Rigging (gltf)
 <img src="./img/RiggingRealtime.gif" width="50%" height="50%"/>
 
-- Video MoCap using MMD model
+- Video - Rigging (MMD)
 <img src="./img/RiggingVideo.gif" width="50%" height="50%"/>
